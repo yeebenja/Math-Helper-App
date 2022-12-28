@@ -3,3 +3,5 @@
 Built within a group of 3 students
 
 Need to link Krish Chiwane's and Nick Burcroff's github. 
+
+Also, build a project portfolio for yourself!
