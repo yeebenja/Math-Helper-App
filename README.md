@@ -1,6 +1,6 @@
 # Math Helper App
 
-Built within a group of 3 students
+Using MIT App Inventor, created a basic application of a calculator with many helper functions aimed to help students in high school algebra.
 
 Need to link Krish Chiwane's and Nick Burcroff's github. 
 
